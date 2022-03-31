@@ -1,0 +1,19 @@
+html, body{
+    background-color: honeydew;
+}
+
+
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-family: serif;
+}
+.formulaire {
+
+    display: flex;
+    color: black;
+    font-family: serif;
+}
